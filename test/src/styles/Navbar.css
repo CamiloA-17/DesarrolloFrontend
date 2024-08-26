@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.navbar-item {
+    text-decoration: none;
+}
